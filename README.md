@@ -1,16 +1,5 @@
 # image_uploader_app
 
-A new Flutter project.
+Uploads Image to a server using http and RxDart as state management
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/34505346/128492852-f0d6e6de-a47d-465c-a4c7-e696b60ab38f.mp4
